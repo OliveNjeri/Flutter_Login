@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "452032032562",
+    "project_id": "sema-e8cdc",
+    "storage_bucket": "sema-e8cdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452032032562:android:4e2d83656e0bae09c7b12b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452032032562-vejlus02gt927ltkd3tru9r4jjnrspvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "7777ce15c654412f5717c6238d6b19c2e184300f"
+          }
+        },
+        {
+          "client_id": "452032032562-dlq6e4vnmibal8gm86f6g6au8uhppfj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKHAieiTkP-WnTPv6-veE1Gnq4puNi0k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452032032562-dlq6e4vnmibal8gm86f6g6au8uhppfj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
